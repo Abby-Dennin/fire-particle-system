@@ -9,10 +9,6 @@ https://youtu.be/eh6YJN_-Sck
 
 ![ProjectScreenshot2](https://user-images.githubusercontent.com/71346138/165785153-04154b84-22b7-4b8d-8463-d7e68fcb14b2.PNG)!
 
-[ProjectScreenshot3](https://user-images.githubusercontent.com/71346138/165785579-f272a11e-341b-4c7d-a8de-aa05eae1278d.PNG)
-
-
-
 * External Resources Used:
   * https://github.com/JustLewis/OpenGLTemplate  
     * Used as starting point for files and run configurations
