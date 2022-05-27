@@ -1,0 +1,4 @@
+﻿  Particle.cpp
+C:\Users\abiga\Downloads\OpenGLTemplate-master\OpenGLTemplate-master\OpenGLToolkit\Particle.cpp(9,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abiga\Downloads\OpenGLTemplate-master\OpenGLTemplate-master\OpenGLToolkit\Particle.cpp(20,16): warning C4305: '-=': truncation from 'double' to 'float'
+  OpenGLToolkit.vcxproj -> C:\Users\abiga\Downloads\OpenGLTemplate-master\OpenGLTemplate-master\Debug\OpenGLToolkit.exe
